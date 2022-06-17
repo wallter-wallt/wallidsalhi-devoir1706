@@ -1,0 +1,95 @@
+body {
+    background-image:url('./image/fond4.png');
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;  
+}
+#image{
+    width:100%;
+    height:100px;
+}
+.row{
+    width: 100%;
+    margin: 0%;
+    padding:0%
+}
+.card{
+    margin: 0% auto;
+}
+#perso1{
+    width:50px;
+    height:50px;
+}
+#perso2{
+    width:50px;
+    height:50px;
+}
+#perso3{
+    width:50px;
+    height:50px;
+}
+#perso4{
+    width:50px;
+    height:50px;
+}
+#perso5{
+    width:50px;
+    height:50px;
+}
+#perso6{
+    width:50px;
+    height:50px;
+}
+#perso7{
+    width:50px;
+    height:50px; 
+}
+#perso8{
+    width:50px;
+    height:50px;
+}
+#perso9{
+    width:50px;
+    height:50px;
+}
+#perso10{
+    width:50px;
+    height:50px;
+}
+#perso11{
+    width:50px;
+    height:50px;
+}
+#perso12{
+    width:50px;
+    height:50px;
+}
+.image2{
+    width:100%;
+}
+
+.carte{
+    background-image: url(./image/allo.png);
+    background-size:cover;
+    color:rgb(0, 0, 0);
+    
+}
+#jauge{
+    height : 20px;
+    background-color : green;
+  }
+
+#ok{
+    color: yellowgreen;
+    background-color: yellow;
+}
+.allo{
+    background-color: blue;
+}
+
+#mouse{
+    color: white;
+    background-color: black;
+}
